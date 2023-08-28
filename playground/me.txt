@@ -1,0 +1,5 @@
+{{#user}}
+Name: Saumit
+Skills: C, Python, Golang, Bashscript, HTML, CSS, YAML
+Email: saumitup@gmail.com
+{{/user}}
